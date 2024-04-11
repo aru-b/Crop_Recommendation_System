@@ -30,15 +30,19 @@ Persisted Model and Scalers: The trained machine learning model and data scalers
 
 # Installation
 1. Clone the repository:
+   
 git clone https://github.com/aru-b/Crop_Recommendation_System.git
 
 2. Navigate to the project directory:
+   
 cd crop-recommendation-system
 
 3. Install the required Python packages:
+   
 pip install -r requirements.txt
 
-5. Start the application:
+4. Start the application:
+   
 python app.py
 
 # Usage
