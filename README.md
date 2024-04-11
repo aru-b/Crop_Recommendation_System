@@ -51,10 +51,15 @@ The recommended crop for cultivation based on the input data will be displayed.
 
 # Technologies Used
 Flask: A lightweight web framework used for building the web application.
+
 Pandas: A data manipulation and analysis library used for data handling.
+
 NumPy: A library used for numerical operations and data manipulation.
+
 Scikit-learn: A machine learning library used for model development and evaluation.
+
 Seaborn and Matplotlib: Libraries used for data visualization.
+
 Bootstrap: A front-end framework used for styling the web application.
 
 # Data
