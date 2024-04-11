@@ -3,13 +3,20 @@
 The Crop Recommendation System is a machine learning-based application that provides personalized recommendations for crop cultivation based on various environmental and soil factors. This application aims to assist farmers, agricultural advisors, and other stakeholders in making informed decisions about which crops to cultivate in specific conditions.
 
 # Table of Contents
-Overview
+Overview 
+
 Features
+
 Installation
+
 Usage
+
 Technologies Used
+
 Data
+
 Model
+
 Contributing
 
 # Overview
