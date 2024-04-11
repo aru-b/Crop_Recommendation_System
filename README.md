@@ -24,7 +24,7 @@ Persisted Model and Scalers: The trained machine learning model and data scalers
 # Installation
 Clone the repository:
 
-git clone https://github.com/aru-b/crop-recommendation-system.git
+git clone https://github.com/aru-b/Crop_Recommendation_System.git
 Navigate to the project directory:
 
 cd crop-recommendation-system
