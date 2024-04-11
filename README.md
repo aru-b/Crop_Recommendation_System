@@ -29,17 +29,16 @@ Data Preprocessing: The system employs MinMax and Standard scaling to preprocess
 Persisted Model and Scalers: The trained machine learning model and data scalers are persisted using pickle for efficient and consistent predictions.
 
 # Installation
-Clone the repository:
-
+1. Clone the repository:
 git clone https://github.com/aru-b/Crop_Recommendation_System.git
-Navigate to the project directory:
 
+2. Navigate to the project directory:
 cd crop-recommendation-system
-Install the required Python packages:
 
+3. Install the required Python packages:
 pip install -r requirements.txt
-Start the application:
 
+5. Start the application:
 python app.py
 
 # Usage
