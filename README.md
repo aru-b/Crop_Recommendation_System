@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+![image](https://github.com/aru-b/Crop_Recommendation_System/assets/85820581/f34555ce-3b61-48f5-9466-4084378701e0)
 
 # Crop_Recommendation_System
 
